@@ -68,6 +68,9 @@ return the current tag
 ## .branch(function (branch) { ... })
 return the current branch
 
+## For every method, a .xxxSync() version is available:
+returns the result directly
+
 # Install
 
 `npm install git-rev`
